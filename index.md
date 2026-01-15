@@ -1,7 +1,9 @@
 ---
-title: Ma page de recommandations
+title: "Ma page de recommandations TEST"
 order: 0
+in_menu: true
 ---
+TEST TEST TEST
 
 C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
 
@@ -43,4 +45,4 @@ Quand je fais une pause, j'aime bien écouter un petit podcast avec :
         <a href="http://antennapod.org/">Vers le site</a>
       </div>
     </div>
-  </article>
+  </article> 
